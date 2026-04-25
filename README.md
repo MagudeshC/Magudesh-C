@@ -10,8 +10,8 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Magudesh C&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Magudesh C?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=Maddy&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Maddy?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
@@ -20,7 +20,7 @@
 ## 🌙 About Me
 
 ```yaml
-Name     : Magudesh Chandran
+Name     : Maddyhandran
 Role     : Data Analyst | Power BI Developer
 Location : Chennai, India 🇮🇳
 Focus    : BI Solutions · Dashboard Design · Data Storytelling
@@ -119,14 +119,14 @@ Status   : Open to Work ✅
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magudesh C&show_icons=true&theme=github_dark&hide_border=true&title_color=00d9ff&icon_color=F2C811&text_color=c9d1d9&bg_color=0d1117&ring_color=00d9ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magudesh C&layout=compact&theme=github_dark&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maddy&show_icons=true&theme=github_dark&hide_border=true&title_color=00d9ff&icon_color=F2C811&text_color=c9d1d9&bg_color=0d1117&ring_color=00d9ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddy&layout=compact&theme=github_dark&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Magudesh C&theme=github-dark-blue&hide_border=true&ring=00d9ff&fire=F2C811&currStreakLabel=00d9ff&background=0d1117&stroke=00d9ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maddy&theme=github-dark-blue&hide_border=true&ring=00d9ff&fire=F2C811&currStreakLabel=00d9ff&background=0d1117&stroke=00d9ff)](https://git.io/streak-stats)
 
 </div>
 
@@ -140,8 +140,8 @@ Status   : Open to Work ✅
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Magudesh C)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Magudesh C)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Maddy)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magudeshchandran@gmail.com)
 [![Power BI Portfolio](https://img.shields.io/badge/Power%20BI%20Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com)
 
